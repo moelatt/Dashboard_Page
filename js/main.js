@@ -91,7 +91,7 @@ function setFocus(e){
 // get focus
 function getFocus(){
     if(localStorage.getItem('focus') == null){
-        focus.textContent = '(Enter focus)'
+        focus.textContent = '(Enter Plan)'
     }
     else{
         focus.textContent = localStorage.getItem('focus');
