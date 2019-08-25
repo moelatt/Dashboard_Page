@@ -23,7 +23,7 @@ function showTime(){
                       ${addZero(second)} ${AmPm}`
 
     // Once call has to run every second
-    setTimeout(showTime, 70000);
+    setTimeout(showTime, 1000);
 }
 
 // Add zero infront of time (minutes, seconds)
