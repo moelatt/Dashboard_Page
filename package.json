@@ -1,0 +1,22 @@
+{
+  "name": "dashboard_page",
+  "version": "1.0.0",
+  "description": "DashBoard Page",
+  "main": "index.js",
+  "homepage": "https://github.com/moelatt/Dashboard_Page#readme",
+  "scripts": {
+    "deploy": "gh-pages -d index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/moelatt/Dashboard_Page.git"
+  },
+  "author": "Moe Latt",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/moelatt/Dashboard_Page/issues"
+  },
+  "dependencies": {
+    "gh-pages": "^2.1.1"
+  }
+}
